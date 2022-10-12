@@ -1,7 +1,7 @@
 # MINEDU
 
 ## DISAFIL
-  Se lista las maquetas que se tomaran en cuenta según el cronograma de desarrollo a implementar.
+  Se lista las maquetas (mockup) que se tomaran en cuenta según el cronograma de desarrollo a implementar.
   
 - Mapa principal\
 https://gisdeveloperssac.github.io/MINEDU/DISAFIL/Principal/index.html
