@@ -1,23 +1,22 @@
 # MINEDU
 
 ## DISAFIL
-===
 
-* Mapa principal
+- Mapa principal\
 https://gisdeveloperssac.github.io/MINEDU/DISAFIL/Principal/index.html
-* Mapas bases
+- Mapas bases\
 https://gisdeveloperssac.github.io/MINEDU/DISAFIL/MapasBases/index.html
-* Lista de capas externas
+- Lista de capas externas\
 https://gisdeveloperssac.github.io/MINEDU/DISAFIL/ListaCapaExternas/index.html
-* Lista de capas operativas
+- Lista de capas operativas\
 https://gisdeveloperssac.github.io/MINEDU/DISAFIL/ListaCapaOperativas/index.html
-* Leyenda
+- Leyenda\
 https://gisdeveloperssac.github.io/MINEDU/DISAFIL/Leyenda/index.html
-* Búsqueda
+- Búsqueda\
 https://gisdeveloperssac.github.io/MINEDU/DISAFIL/Busqueda/index.html
-* Análisis
+- Análisis\
 https://gisdeveloperssac.github.io/MINEDU/DISAFIL/Analisis/index.html
-* Estadística
+- Estadística\
 https://gisdeveloperssac.github.io/MINEDU/DISAFIL/Estadistica/index.html
-* Identificar
+- Identificar\
 https://gisdeveloperssac.github.io/MINEDU/DISAFIL/Identificar/index.html
