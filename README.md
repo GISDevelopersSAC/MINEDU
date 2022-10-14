@@ -21,3 +21,5 @@ https://gisdeveloperssac.github.io/MINEDU/DISAFIL/Analisis/index.html
 https://gisdeveloperssac.github.io/MINEDU/DISAFIL/Estadistica/index.html
 - Identificar\
 https://gisdeveloperssac.github.io/MINEDU/DISAFIL/Identificar/index.html
+- Movil\
+https://gisdeveloperssac.github.io/MINEDU/DISAFIL/Movil/index.html
