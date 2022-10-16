@@ -14,3 +14,6 @@
 - Estadística [Ver maqueta](https://gisdeveloperssac.github.io/MINEDU/DISAFIL/Estadistica/index.html)
 - Identificar [Ver maqueta](https://gisdeveloperssac.github.io/MINEDU/DISAFIL/Identificar/index.html)
 - Movil [Ver maqueta](https://gisdeveloperssac.github.io/MINEDU/DISAFIL/Movil/index.html)
+
+
+<p>Here's a link to <a href="https://google.com" target="_blank">Google</a></p>
