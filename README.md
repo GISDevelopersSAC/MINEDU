@@ -5,7 +5,7 @@
 
 - Mapa principal [Ver maqueta](https://gisdeveloperssac.github.io/MINEDU/DISAFIL/Principal/index.html){:target="_blank" rel="noopener"}
 
-- Mapas bases [Ver maqueta](https://gisdeveloperssac.github.io/MINEDU/DISAFIL/MapasBases/index.html){:target="_blank"}
+- Mapas bases [Ver maqueta](https://gisdeveloperssac.github.io/MINEDU/DISAFIL/MapasBases/index.html/){:target="_blank"}
 - Lista de capas externas [Ver maqueta](https://gisdeveloperssac.github.io/MINEDU/DISAFIL/ListaCapaExternas/index.html)
 - Lista de capas operativas [Ver maqueta](https://gisdeveloperssac.github.io/MINEDU/DISAFIL/ListaCapaOperativas/index.html)
 - Leyenda [Ver maqueta](https://gisdeveloperssac.github.io/MINEDU/DISAFIL/Leyenda/index.html)
